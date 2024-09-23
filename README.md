@@ -8,10 +8,6 @@ Welcome to the Cryptography Algorithms Repository! This project aims to implemen
 
 - [Features](#features)
 - [Algorithms Included](#algorithms-included)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
